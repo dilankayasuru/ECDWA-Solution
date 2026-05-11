@@ -157,11 +157,6 @@ def main():
     print(f"  Duration:        {elapsed:.1f}s")
     print(f"  Manifest:        s3://{args.bucket}/{args.prefix}/migration_manifest.json")
     print("=" * 60)
-    print("\nNext steps:")
-    print("  1. Open SageMaker Notebook and load data from S3")
-    print(f"     S3 path: s3://{args.bucket}/{args.prefix}/telemetry_readings.csv")
-    print("  2. Verify in AWS Console -> S3 -> Browse bucket")
-    print("  3. Take screenshots for Task 6 (Data Migration) evidence")
 
 
 if __name__ == "__main__":

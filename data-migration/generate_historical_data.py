@@ -486,7 +486,6 @@ def main():
     print("\n" + "=" * 60)
     print("Data generation complete!")
     print(f"CSV files are in: {os.path.abspath(args.output_dir)}/")
-    print("Next step: Run upload_to_s3.py to migrate data to AWS S3 Data Lake")
     print("=" * 60)
 
 

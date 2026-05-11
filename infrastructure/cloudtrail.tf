@@ -1,5 +1,4 @@
 # CloudTrail - API Call Auditing and Governance
-# Free Tier: 1 trail (management events) free
 
 # S3 bucket for CloudTrail logs
 resource "aws_s3_bucket" "cloudtrail" {
