@@ -1,0 +1,151 @@
+customer_id,name,email,phone,address,city,zone,plan_type,registered_date,status
+CUST-00001,Shelia Hancock,newtoneric@example.org,7169077059,"65922 Stout Road Suite 766, Gonzalezshire, MN 22100",Mumbai,mumbai-zone-2,basic,2024-02-27,active
+CUST-00002,Susan Stephens,dphillips@example.org,001-819-963-6824x91057,"0049 Ashley Squares Apt. 492, Crystalfort, IN 57499",Pune,pune-zone-1,standard,2024-02-17,active
+CUST-00003,Billy Moore,nichole31@example.com,701-931-1110x60085,"PSC 4076, Box 9311, APO AA 75638",Delhi,delhi-zone-2,basic,2023-04-24,active
+CUST-00004,Caitlin Martin,david25@example.com,(765)905-8869,"USNV Baker, FPO AE 47281",Mumbai,mumbai-zone-1,basic,2021-03-23,active
+CUST-00005,Brian Wilson,cynthiastokes@example.net,551-885-3165,"9106 Alicia Viaduct, South Maria, MN 37330",Delhi,delhi-zone-3,basic,2023-02-23,active
+CUST-00006,Christopher Rush,cfry@example.net,391.201.0419x7308,"718 Schmidt Squares, Benjaminbury, OR 40083",Delhi,delhi-zone-2,enterprise,2021-03-27,active
+CUST-00007,Rachel Cannon,gordonwilliam@example.org,+1-213-389-3855x779,"93654 John Road Apt. 691, East Tyler, GU 74671",Pune,pune-zone-2,basic,2024-04-03,active
+CUST-00008,Mary Phillips,carlyrivera@example.org,662-685-6227x77631,"20749 Christian Garden, Bellton, TN 18084",Bangalore,bangalore-zone-2,premium,2021-07-23,active
+CUST-00009,David Reid,robinwillis@example.org,+1-770-593-7996x529,"8195 Graham Fork, Jacquelineton, ND 56633",Bangalore,bangalore-zone-1,basic,2020-07-08,active
+CUST-00010,Sherry Walker,wrocha@example.net,001-761-397-2893x63260,"703 Jason Row, Tammytown, NV 46359",Bangalore,bangalore-zone-1,premium,2023-05-21,active
+CUST-00011,Tommy Lopez,kmiller@example.com,264.476.8742x88343,"80770 Robbins Lakes Suite 785, Santiagoshire, ID 04726",Mumbai,mumbai-zone-1,enterprise,2023-01-03,active
+CUST-00012,Dean Mccarthy,rebeccarodriguez@example.com,930-240-9522,"007 Melissa Lake Apt. 755, Juliafort, FM 70148",Bangalore,bangalore-zone-2,basic,2023-02-04,active
+CUST-00013,Joshua Riley,chrishicks@example.org,700-697-6685x72312,"97324 Jeffrey Brooks, Floresshire, NJ 46036",Delhi,delhi-zone-3,premium,2023-03-28,active
+CUST-00014,Bridget Gamble,stephanie79@example.org,525-720-8718x128,"6031 Thomas Walks Suite 965, Brandyfurt, NC 25372",Mumbai,mumbai-zone-2,basic,2023-09-16,active
+CUST-00015,Caroline Phillips,ugomez@example.net,(970)395-3791x68852,"2097 Dunn Garden, Alexandraport, NC 54399",Pune,pune-zone-2,basic,2024-10-17,active
+CUST-00016,Amanda Hayes,acollier@example.net,+1-750-975-8635x5844,"18762 Coleman Fort, Mathischester, AS 10777",Mumbai,mumbai-zone-2,enterprise,2021-07-23,active
+CUST-00017,Patrick Lee,markbrock@example.com,358.283.2513x8189,"1522 Ronald View Suite 148, Robertstad, LA 10179",Bangalore,bangalore-zone-1,standard,2022-01-28,active
+CUST-00018,Brittany Jones,rperez@example.com,964-586-2089,"91097 Heather Haven Apt. 823, Cantrellfurt, WA 16303",Pune,pune-zone-2,basic,2023-06-01,active
+CUST-00019,Kenneth Golden,lturner@example.org,761-578-4467x8914,"7081 Reed Parks Suite 597, Bakerview, OH 15114",Delhi,delhi-zone-2,standard,2020-11-30,active
+CUST-00020,John Robertson,mooresteven@example.com,001-346-727-9684x72737,"664 Joseph Orchard, Kristiside, NM 79170",Pune,pune-zone-2,standard,2023-11-03,active
+CUST-00021,Sarah Rivera,rwise@example.org,+1-285-290-6233,"29304 Brandon Courts, Port Adrian, AR 34893",Mumbai,mumbai-zone-1,standard,2024-08-10,active
+CUST-00022,Faith Moreno,hcampbell@example.org,3934434068,"179 Cynthia Road, Stonefort, NC 52599",Bangalore,bangalore-zone-1,enterprise,2021-07-02,active
+CUST-00023,Robert Solis,ronaldgomez@example.com,+1-963-732-2370x40949,"913 Melissa Greens, New Feliciaberg, AR 29988",Delhi,delhi-zone-3,premium,2021-03-11,active
+CUST-00024,Alyssa Flowers,wnorman@example.net,001-797-236-1991x19126,"3312 Leslie Brook Apt. 283, Stephenmouth, AS 41255",Bangalore,bangalore-zone-2,enterprise,2020-10-19,active
+CUST-00025,Lori Kelly,xcook@example.com,585-670-3332x96802,"519 Mendoza Road, Hernandezfurt, PR 14252",Pune,pune-zone-1,premium,2024-03-09,active
+CUST-00026,Miguel Roberson,johnconner@example.org,001-756-252-0210x04808,"11085 Duane Flats Apt. 605, Wellsshire, MA 06537",Delhi,delhi-zone-3,enterprise,2022-01-11,active
+CUST-00027,Sarah Thornton,dmoore@example.net,(318)804-6206x55336,"78908 Velazquez Cliffs, New Matthewport, NE 88437",Mumbai,mumbai-zone-3,enterprise,2020-07-05,active
+CUST-00028,Eric Simon,waltersmadison@example.org,001-668-771-9926x12124,"5199 Samantha Shores Suite 790, Port Matthewstad, LA 98423",Mumbai,mumbai-zone-2,standard,2023-07-09,active
+CUST-00029,Dylan Harris,stanleybrianna@example.com,809.329.0595,"302 Sara Pike, South Jamie, TN 86038",Bangalore,bangalore-zone-2,basic,2022-02-27,active
+CUST-00030,Yolanda Wallace,burtonjeffery@example.org,9169462114,"8902 Ernest Harbor Suite 089, Lake Christine, TN 69220",Delhi,delhi-zone-1,premium,2023-02-07,active
+CUST-00031,Brittany Webster MD,tcastillo@example.org,717.549.5549x9101,"461 Hicks Vista, Lake Davidville, CT 89796",Mumbai,mumbai-zone-1,basic,2023-10-28,active
+CUST-00032,Daniel Cardenas,zshaw@example.com,774-381-9878,"77187 Frost Fall, Wallacemouth, CO 28650",Pune,pune-zone-2,premium,2020-08-16,active
+CUST-00033,Robert Smith,philipwatson@example.com,(515)589-7243x02166,"410 Joseph Squares, East Melissaton, PR 49389",Mumbai,mumbai-zone-3,enterprise,2020-01-07,inactive
+CUST-00034,Jessica Moss,evelyn97@example.net,284.304.5900,"459 Angie River, Woodsshire, OR 56730",Pune,pune-zone-2,standard,2022-11-05,inactive
+CUST-00035,Elizabeth James,bryan09@example.net,783-647-5163x6824,"01083 Palmer Unions Apt. 918, Shieldsfurt, IN 34109",Pune,pune-zone-2,standard,2020-11-09,active
+CUST-00036,Natalie Benton,patricia19@example.com,001-940-253-0053x7810,"88189 Rachel Mission Apt. 488, Melanieborough, MA 49644",Mumbai,mumbai-zone-3,basic,2023-05-11,active
+CUST-00037,Michael Baxter,angelawilliams@example.net,+1-808-726-8869x04477,"64229 Wilkinson Way, Annehaven, CT 31973",Mumbai,mumbai-zone-1,basic,2022-01-13,active
+CUST-00038,Connor Kim,barnettsteve@example.org,001-506-882-1418x49493,"77183 Brown Forest Suite 482, North Kimberlyshire, TX 38512",Pune,pune-zone-2,standard,2020-04-28,active
+CUST-00039,Dustin Henson,vincent64@example.net,(584)537-0609x25718,"574 Brian Squares Suite 487, Zimmermanmouth, CO 63230",Delhi,delhi-zone-3,basic,2020-06-24,active
+CUST-00040,Robert Johnson,carla44@example.com,(906)727-9425x369,"824 Dana Mews, New Sandra, TN 12365",Mumbai,mumbai-zone-2,standard,2020-09-19,active
+CUST-00041,Patrick Case,regina38@example.com,600.366.8429,"277 Leon Streets, Kevinfurt, IL 86441",Delhi,delhi-zone-2,standard,2021-06-26,active
+CUST-00042,Nicholas Parker,gonzalezmichael@example.net,356-749-5596x59403,"143 Lisa Loaf Suite 480, Henryville, GU 94789",Delhi,delhi-zone-3,enterprise,2021-03-09,inactive
+CUST-00043,Stephanie Cox,farleytimothy@example.org,(573)433-7151x79054,"814 Edwards Rapid Suite 654, West Jacquelinechester, UT 12353",Pune,pune-zone-1,premium,2022-03-28,suspended
+CUST-00044,Tina Herman,rhill@example.net,936.575.3911x155,"964 Alexandria Viaduct, Parkerhaven, ME 82208",Bangalore,bangalore-zone-1,enterprise,2022-11-25,active
+CUST-00045,Lisa Marshall,john05@example.org,001-397-668-2201,"USS Jimenez, FPO AP 89002",Pune,pune-zone-1,standard,2020-05-11,active
+CUST-00046,Jeffery Martin,hailey31@example.com,2263654211,"1212 Timothy Summit Apt. 005, Ashleyburgh, TX 49090",Delhi,delhi-zone-3,standard,2023-04-20,active
+CUST-00047,Heather Logan,shannonann@example.com,+1-937-570-6726x71450,"82557 Anderson Grove, Wongfort, MS 96245",Mumbai,mumbai-zone-2,basic,2021-04-13,active
+CUST-00048,Diana Sims,richardsonsean@example.org,+1-743-768-1667x94084,"6082 Anderson Creek, New Dustin, HI 37209",Mumbai,mumbai-zone-1,premium,2020-05-25,active
+CUST-00049,Amy Morse,rosetodd@example.net,(516)335-4388,"2987 Sharon Union, Jordanmouth, AL 34389",Pune,pune-zone-2,enterprise,2021-03-14,active
+CUST-00050,Ashley Dean,paigereynolds@example.com,(476)935-2086x61854,"6079 Denise Club Suite 562, East Robin, OH 75434",Delhi,delhi-zone-3,enterprise,2021-05-12,active
+CUST-00051,Jamie Martin,jadechen@example.net,001-695-750-1345x3598,"362 Wright Springs, Port Briannaberg, PW 47046",Bangalore,bangalore-zone-2,standard,2020-07-12,active
+CUST-00052,Teresa Vincent,ypineda@example.net,6606114967,"33430 Melanie Shoals Apt. 979, New Jacobfort, SD 80544",Bangalore,bangalore-zone-2,premium,2022-05-17,active
+CUST-00053,Jacob Gonzalez,chris84@example.net,2208323770,"684 Bennett Islands, Millerport, CA 01070",Mumbai,mumbai-zone-1,basic,2020-05-04,active
+CUST-00054,Seth Cunningham,teresaryan@example.com,(819)838-6404,"93129 Ernest Extension, New Tammy, TN 14565",Bangalore,bangalore-zone-1,basic,2021-05-24,active
+CUST-00055,Samantha Hudson,ashleymaldonado@example.com,7722434180,"95463 Autumn Walks Apt. 117, Sheltonland, NY 83579",Delhi,delhi-zone-2,enterprise,2020-10-14,active
+CUST-00056,Deanna Maxwell MD,duarteamber@example.net,(512)431-9538x90694,"1014 Poole Loaf, Port Zacharyton, DC 56353",Pune,pune-zone-2,enterprise,2021-05-26,active
+CUST-00057,Erica Richards,christianmartin@example.com,(521)828-8104x52023,"229 Matthew Estates Suite 036, Port Brianna, ME 84067",Mumbai,mumbai-zone-2,enterprise,2024-07-12,active
+CUST-00058,Thomas Harper,katherine09@example.com,606-298-1193,"959 Cunningham Neck, Williamton, RI 44214",Delhi,delhi-zone-2,basic,2020-04-13,active
+CUST-00059,Cheryl Keith,michelejohnson@example.org,251-809-1550,"Unit 1338 Box 9061, DPO AE 87069",Delhi,delhi-zone-2,basic,2020-07-10,inactive
+CUST-00060,Steve Deleon,maryross@example.net,(460)298-0252,"69689 David View Suite 501, South Jamesside, VT 46647",Pune,pune-zone-1,standard,2022-04-12,active
+CUST-00061,Destiny Mcguire,nathancarey@example.org,391.328.4036,"345 Stewart Summit Apt. 265, South Deniseville, TX 93008",Pune,pune-zone-1,enterprise,2020-04-30,active
+CUST-00062,Timothy Jones,kelli76@example.net,+1-930-543-6209x14525,"Unit 8222 Box 7211, DPO AP 42080",Mumbai,mumbai-zone-1,enterprise,2021-06-27,inactive
+CUST-00063,Shawn Todd,gwalker@example.org,3547247895,"6550 Sara Mountains, West Johnshire, UT 57888",Delhi,delhi-zone-1,premium,2022-05-16,active
+CUST-00064,Cathy Watkins,ljohnson@example.org,(382)372-3740x526,"3985 Lisa Point Suite 474, Lake Spencer, PA 60324",Delhi,delhi-zone-2,enterprise,2020-11-13,active
+CUST-00065,Mark Brown,brownheather@example.com,+1-722-510-8997x67163,"5060 Reyes Trafficway, North Michaelfurt, MI 44576",Pune,pune-zone-1,basic,2023-04-01,active
+CUST-00066,Lucas Jones,owensnicholas@example.net,+1-730-547-1014x3936,"562 Flores Freeway, South Natalieborough, NV 91033",Mumbai,mumbai-zone-1,premium,2020-04-27,active
+CUST-00067,Eric Reeves,ogonzales@example.org,001-636-373-6981x611,"189 Austin Manor, Port Latashamouth, WI 32247",Delhi,delhi-zone-1,standard,2020-04-26,inactive
+CUST-00068,Jamie Cain,markwright@example.org,+1-810-615-7989,"22295 Alexis Lodge Suite 601, North Katherineborough, OH 20477",Mumbai,mumbai-zone-2,standard,2020-05-20,active
+CUST-00069,William Jones,madisonfrederick@example.org,260.340.3090x063,"97118 Virginia Mountains, West Lauren, CT 91278",Pune,pune-zone-1,enterprise,2020-09-02,inactive
+CUST-00070,Julie Miller,blackjared@example.org,001-755-200-0496,"157 Christopher Via, Davidshire, ND 13208",Delhi,delhi-zone-3,standard,2023-03-31,active
+CUST-00071,Julie Browning MD,jamesgraham@example.com,(319)300-6116x387,"3706 Stewart Lake Apt. 888, Nicholston, IN 08420",Delhi,delhi-zone-3,basic,2022-05-08,active
+CUST-00072,Dana Berg,qrichards@example.net,001-770-289-4880x447,"386 Shaffer Trail, West John, LA 85683",Delhi,delhi-zone-3,premium,2021-06-18,active
+CUST-00073,Dr. Joseph Mcconnell DDS,elizabeth67@example.net,601-925-2754x7751,"5731 Sutton Ferry Suite 405, East Nicholaschester, NC 97989",Bangalore,bangalore-zone-1,standard,2021-06-27,active
+CUST-00074,Tracie Fisher,michael47@example.net,406.264.2072x97054,"2257 Kyle Knolls Suite 494, East Christopher, OH 68409",Pune,pune-zone-2,enterprise,2021-10-09,inactive
+CUST-00075,Elizabeth Kelley,paulvelazquez@example.net,597-607-9017,"8702 Matthew Camp Suite 479, Richardsonmouth, MT 50010",Mumbai,mumbai-zone-2,basic,2022-07-27,active
+CUST-00076,Steven Schaefer,michael20@example.org,924-218-5526,"88219 Thomas Isle Apt. 567, East Caroline, SD 07929",Delhi,delhi-zone-3,basic,2020-05-30,active
+CUST-00077,Samuel Salazar,matthewmurphy@example.com,351.921.3092,"063 Clark Grove, New Sharonborough, NM 80199",Delhi,delhi-zone-2,premium,2020-09-28,inactive
+CUST-00078,Leslie Acosta,garciapaul@example.org,5699523219,"31374 Elizabeth Summit, Lake Pamelashire, WY 54041",Mumbai,mumbai-zone-2,standard,2022-01-26,active
+CUST-00079,Matthew Brock,jasmine68@example.org,+1-853-981-9221x93172,"986 Tracy Brook Suite 731, West Julie, PR 95885",Delhi,delhi-zone-1,premium,2023-06-06,suspended
+CUST-00080,Jennifer Harrington,rubioamanda@example.org,738.595.6254x1707,"72023 John Springs, Yvonneshire, CT 58263",Delhi,delhi-zone-2,basic,2023-09-29,active
+CUST-00081,Nicole Brown,acarlson@example.com,226.614.9359x4156,"45210 Fisher Isle Suite 385, Hardinberg, PR 88515",Pune,pune-zone-2,basic,2024-12-03,active
+CUST-00082,Austin Chang,laurenlee@example.net,(878)346-3763x480,"2618 Hannah Burg, Dylanberg, MA 80081",Mumbai,mumbai-zone-2,basic,2024-02-29,active
+CUST-00083,Mr. Miguel Liu,lmeyers@example.org,5889940786,"Unit 1688 Box 0622, DPO AA 68065",Pune,pune-zone-2,premium,2023-05-23,active
+CUST-00084,Peter Glover,lozanodavid@example.org,001-248-516-3843x4374,"29592 Sexton Crest Suite 906, Austinview, OK 44230",Bangalore,bangalore-zone-1,standard,2023-11-08,active
+CUST-00085,Zachary Thompson,christopher54@example.net,299.992.5472x68706,"801 Ferrell Lake Apt. 529, South Roger, MO 34004",Pune,pune-zone-2,enterprise,2021-05-29,inactive
+CUST-00086,Donna Johnson,lisanguyen@example.net,001-743-243-7687x8889,"551 Michael Throughway, West Jason, ND 71725",Mumbai,mumbai-zone-1,basic,2023-07-23,active
+CUST-00087,Michele Murillo,watkinsrhonda@example.com,872.894.5771x227,"304 Pamela Trafficway Suite 268, Steveburgh, DE 25598",Pune,pune-zone-2,basic,2020-01-08,active
+CUST-00088,Melanie Ward,andrew63@example.net,932.427.4650x5791,"0388 Allen Lake Suite 542, Lewisburgh, PW 34831",Mumbai,mumbai-zone-3,premium,2020-11-26,active
+CUST-00089,Jennifer Rose,petersonchristopher@example.org,001-256-691-2344x4856,"85422 Erica Inlet Apt. 385, Charleston, SD 69470",Delhi,delhi-zone-2,enterprise,2023-02-22,active
+CUST-00090,Chad Buchanan,hwaters@example.com,+1-267-789-0194x152,"1429 Carlson Burg, Daniellemouth, FM 89677",Mumbai,mumbai-zone-2,standard,2023-01-22,active
+CUST-00091,Emily Campbell,uwilliams@example.org,001-721-860-6361x216,"3912 Charles Junctions, Stewartland, MN 00688",Bangalore,bangalore-zone-1,standard,2022-05-30,active
+CUST-00092,John Richards,joanflores@example.com,870-921-6118x1649,"0658 Sutton View, Sawyershire, PR 29369",Pune,pune-zone-2,premium,2024-06-18,suspended
+CUST-00093,Brandi Hayden,kristenchambers@example.net,4694813242,"Unit 0090 Box 4758, DPO AA 76340",Mumbai,mumbai-zone-1,premium,2021-03-06,active
+CUST-00094,David Smith,christianlisa@example.net,613-854-5648x6008,"00441 Cardenas Mountains Apt. 254, New Jennifershire, OR 79853",Mumbai,mumbai-zone-2,premium,2024-05-16,active
+CUST-00095,Michael Yoder,kristen54@example.net,001-966-787-5978x28478,"84253 Mark Plains Apt. 991, Lake Joseph, ME 90329",Bangalore,bangalore-zone-2,standard,2021-04-29,active
+CUST-00096,Tiffany Clark,wrighthunter@example.net,589.603.4525x864,"623 Mary Ways Suite 384, Williemouth, KY 72240",Mumbai,mumbai-zone-3,enterprise,2020-02-20,active
+CUST-00097,Joseph Smith,frivas@example.org,001-667-786-8034x5325,"813 Michael Stream, Waltonview, VT 12181",Bangalore,bangalore-zone-1,enterprise,2024-06-30,active
+CUST-00098,Keith Jones,gloriaking@example.net,(834)410-2064x629,"5360 Jonathan Land Suite 943, Lake Danastad, WV 45721",Pune,pune-zone-1,premium,2020-11-22,active
+CUST-00099,Sabrina Kirk DVM,corytaylor@example.net,505.529.9855x859,"Unit 3948 Box 6107, DPO AA 36551",Mumbai,mumbai-zone-2,enterprise,2024-11-21,active
+CUST-00100,Amanda Harrison,robert25@example.com,255-353-5727x30124,"6238 Wheeler Throughway, North Jessica, GA 17558",Delhi,delhi-zone-1,standard,2021-02-12,active
+CUST-00101,David Wagner,aaronyates@example.net,001-595-513-3190x09900,"196 Eric Unions Suite 649, Port Jeffrey, FL 90456",Delhi,delhi-zone-1,premium,2021-09-17,active
+CUST-00102,Cesar Stanton,kathleen17@example.org,852-381-6147x400,"0240 Walker Rapids, New Erikaville, MS 30172",Pune,pune-zone-1,standard,2020-02-18,active
+CUST-00103,Logan Hopkins,chavezroy@example.com,001-244-371-5313,"26321 Reeves Route Suite 978, Josehaven, PR 88871",Bangalore,bangalore-zone-2,premium,2021-07-24,active
+CUST-00104,Jessica Clay,xnelson@example.net,(515)489-8136x872,"2804 Jones Freeway Apt. 523, New Caitlyn, SC 90021",Pune,pune-zone-2,premium,2023-08-06,active
+CUST-00105,Jill Chavez,paynelee@example.org,798.907.0810,"61226 Rodriguez Well Apt. 179, East Brian, NE 87451",Delhi,delhi-zone-2,premium,2020-02-26,active
+CUST-00106,Latasha Young,wkelley@example.org,+1-263-213-4057,"537 Weber Fork, South Tanyaside, TX 01972",Pune,pune-zone-2,standard,2023-04-04,inactive
+CUST-00107,Robert Richardson,sanderskimberly@example.com,781-256-5237x4195,"93462 Tammy Crossing Apt. 203, Scotthaven, PR 84094",Pune,pune-zone-2,basic,2020-08-10,active
+CUST-00108,Christopher Garner,ymitchell@example.com,(872)515-7012x7838,"3442 English Locks Apt. 958, Ronaldview, IN 52379",Bangalore,bangalore-zone-1,premium,2022-06-12,active
+CUST-00109,Jimmy Harrison,milleramanda@example.net,3625078952,"913 Tammy Viaduct Suite 947, North Mindychester, KS 91713",Delhi,delhi-zone-2,basic,2022-02-27,active
+CUST-00110,Bradley Singh,hollowaysheila@example.com,001-744-269-6178x4039,"50470 James Summit, Brookeshire, SD 85286",Pune,pune-zone-1,premium,2020-03-31,active
+CUST-00111,George Thompson,joseph08@example.net,2657437266,"50628 Ana Ways, Jennifertown, DC 83739",Mumbai,mumbai-zone-1,standard,2022-01-15,active
+CUST-00112,Catherine Brady,sarahlarson@example.net,4472339557,"886 Sullivan Point, South Travis, SD 02179",Bangalore,bangalore-zone-1,premium,2023-09-20,active
+CUST-00113,Latoya Hernandez,brooksmolly@example.net,205-791-1487x5021,"452 Huerta Shore, North Patrick, OR 25766",Pune,pune-zone-2,premium,2023-09-27,active
+CUST-00114,Jacob Simmons,christopherhughes@example.org,(994)516-3045x117,"379 Lopez Green, Zavalaberg, KY 94376",Bangalore,bangalore-zone-2,premium,2023-02-09,active
+CUST-00115,Mr. Aaron Hinton,mnelson@example.com,234-425-8419,"429 Shelby Mall, Port Steve, MP 88683",Bangalore,bangalore-zone-2,enterprise,2023-10-19,active
+CUST-00116,Mark Humphrey,debrabecker@example.com,776-734-1780,"8692 Christopher Flats, Ryanstad, AZ 97045",Mumbai,mumbai-zone-3,premium,2022-04-11,active
+CUST-00117,Claire Evans,pmontgomery@example.org,6903732149,"1533 Chandler Canyon Apt. 952, East Joshua, MI 70006",Mumbai,mumbai-zone-1,premium,2021-08-10,active
+CUST-00118,Michael Smith,suzannerobinson@example.com,3325276535,"1286 Cantrell Square, Booneville, HI 94574",Delhi,delhi-zone-3,premium,2022-08-10,active
+CUST-00119,Jason Harding,lauren31@example.net,(674)611-1975x036,"USS Lang, FPO AA 03357",Pune,pune-zone-1,enterprise,2024-06-13,inactive
+CUST-00120,Robert Edwards,oneillstephen@example.org,001-607-232-9947,"05850 Evans Ramp, Samuelfurt, MA 54509",Mumbai,mumbai-zone-3,basic,2021-08-04,active
+CUST-00121,Jose Howard,cristina15@example.com,409.549.3444x3385,"6383 Pierce Burgs Suite 825, East Christina, MS 67960",Delhi,delhi-zone-3,premium,2020-07-10,active
+CUST-00122,Michael Hutchinson,daniel18@example.net,(341)819-7501,"5788 Montgomery Stravenue Apt. 378, Cartermouth, PA 68735",Pune,pune-zone-1,premium,2021-04-05,active
+CUST-00123,Amanda Walker,rwilson@example.com,(895)252-4165,"34400 Sue Meadow, New Bradleychester, IN 36630",Mumbai,mumbai-zone-3,basic,2020-04-04,active
+CUST-00124,Diana Sutton,kimchristopher@example.com,(630)614-8175x7388,"310 White Pines, Lake Kelly, MD 83047",Delhi,delhi-zone-1,basic,2022-07-21,active
+CUST-00125,Sarah Johnson,reginald87@example.org,850-374-4117x777,"68236 Maldonado Run Apt. 825, New Patriciaport, AR 32441",Delhi,delhi-zone-3,standard,2024-01-11,active
+CUST-00126,Jose Richardson,dennisjohn@example.org,702.294.3141x439,"53795 Walker Groves, Hermanborough, TX 04847",Delhi,delhi-zone-1,enterprise,2021-05-14,active
+CUST-00127,Charles Martinez,nealelizabeth@example.com,331-434-4930,"1187 Courtney Vista Apt. 897, Taylormouth, PW 22500",Mumbai,mumbai-zone-1,basic,2024-05-13,active
+CUST-00128,Sandra Davis,sierra97@example.org,848-322-9150,"23911 Williams Field Suite 368, Port Crystal, AZ 08610",Mumbai,mumbai-zone-3,enterprise,2020-04-12,active
+CUST-00129,James Holmes,xflowers@example.org,968.999.7149,"13403 Kevin Branch, Chanberg, NV 76935",Mumbai,mumbai-zone-2,enterprise,2020-09-30,active
+CUST-00130,Douglas Baxter,sbarrett@example.org,848.573.3751,"5491 Vicki Flat, North Mariahmouth, ME 21034",Delhi,delhi-zone-2,premium,2024-03-26,active
+CUST-00131,Evelyn Henry,clarkcaleb@example.org,284-911-9424x81012,"736 Suzanne Parks Apt. 978, Lake Williamville, PW 68680",Delhi,delhi-zone-3,enterprise,2024-08-28,inactive
+CUST-00132,Emily Woods,pottschristopher@example.com,+1-222-205-2772x40270,"1011 Bradley Club Suite 590, Oscarview, PA 26674",Delhi,delhi-zone-1,standard,2024-03-03,active
+CUST-00133,Lindsay Wilson,qsmith@example.com,901-265-7762,"2526 David Shores Apt. 228, Floresland, MH 28063",Delhi,delhi-zone-1,premium,2024-03-19,active
+CUST-00134,Maria Coleman,andrew78@example.org,001-219-276-4167x614,"Unit 0763 Box 7302, DPO AE 24976",Pune,pune-zone-2,enterprise,2023-07-07,active
+CUST-00135,Arthur Preston,jenniferlucas@example.org,664.909.6951x2103,"87435 Wilson Land Apt. 206, Madelinebury, FL 19189",Delhi,delhi-zone-1,basic,2024-01-01,active
+CUST-00136,Janet Jackson,beasleysharon@example.net,+1-242-299-2785x14650,"10281 Laura Ramp Apt. 953, Wilsonland, NJ 03368",Pune,pune-zone-2,premium,2021-10-16,active
+CUST-00137,Danielle Foley,kmaxwell@example.com,3348523311,"54034 Kristin Divide Suite 124, Carterburgh, IL 47621",Mumbai,mumbai-zone-2,standard,2020-11-04,active
+CUST-00138,Jordan Lyons,hokelly@example.com,+1-634-212-0851x0321,"09665 Richard Track, North Nicholas, IN 97712",Mumbai,mumbai-zone-3,standard,2020-05-11,active
+CUST-00139,Nicholas Owens,williamsonmelissa@example.com,001-820-807-8517,"73521 Denise Drives Suite 823, Brianport, AZ 96536",Bangalore,bangalore-zone-1,enterprise,2022-05-01,active
+CUST-00140,Kristopher King,aalvarez@example.com,+1-419-675-2352x9803,"98877 King Locks Apt. 853, North Heidimouth, IA 75582",Bangalore,bangalore-zone-2,enterprise,2024-04-25,active
+CUST-00141,Roger Stout,ryanwood@example.com,546-456-9115x54501,"USNS Kramer, FPO AA 09502",Mumbai,mumbai-zone-1,enterprise,2022-09-03,active
+CUST-00142,Dr. Frank Harrison,danielle90@example.com,390.289.0568x03171,"813 Newman Hollow, Brianton, IL 14398",Bangalore,bangalore-zone-1,premium,2024-03-23,active
+CUST-00143,Dr. Amy Walls,javier60@example.net,001-800-827-5310x44280,"78239 Mcdonald Trafficway Apt. 209, Calvinmouth, VI 33808",Bangalore,bangalore-zone-2,standard,2022-09-26,active
+CUST-00144,Joann Barnes,angela68@example.net,624.674.0920x8820,"434 Walsh Rue, Danielmouth, UT 99424",Bangalore,bangalore-zone-2,enterprise,2020-02-29,active
+CUST-00145,Mary Calhoun,robert57@example.net,560-237-5446x73887,"41981 Sarah Mountains, Sarahberg, UT 53245",Bangalore,bangalore-zone-2,standard,2024-09-17,active
+CUST-00146,Melissa Alexander,owilliams@example.net,+1-413-647-5203x9826,"247 Katherine Square Apt. 413, New Kayla, PR 64812",Mumbai,mumbai-zone-3,basic,2022-03-17,active
+CUST-00147,Amber Perez,bgraham@example.org,001-679-938-0298x711,"621 Gray Island Apt. 684, Youngburgh, IN 34314",Mumbai,mumbai-zone-1,basic,2023-08-09,active
+CUST-00148,Bobby Mooney,logandiaz@example.net,(680)369-3066x62124,"55443 Nguyen Square Suite 377, New Maryview, DE 75501",Delhi,delhi-zone-1,standard,2020-04-12,active
+CUST-00149,Monica Lopez,michaelmoore@example.com,915.862.3406x6749,"665 Geoffrey Camp Apt. 362, Tylerfurt, DC 21716",Bangalore,bangalore-zone-1,standard,2022-07-20,active
+CUST-00150,Jennifer Colon,suzannehill@example.com,+1-328-476-2695,"6961 Mark Meadows Suite 366, Port Michael, MS 67442",Bangalore,bangalore-zone-2,premium,2024-03-20,inactive
